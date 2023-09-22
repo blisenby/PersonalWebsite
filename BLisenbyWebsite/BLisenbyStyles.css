@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* HTML and Body Styles */
+
+html{background-image: url("BackgroundImage.png");background-repeat:repeat;}
+
+
+
+
+/* Heading Styles */
+h1{font-size:2.2em;background:linear-gradient(to left, darksalmon, white, darksalmon);color:limegreen;font-family:Verdana,sans-serif; text-align:center; box-shadow: black 5px 5px 5px;}
+h1#title{ text-shadow: blue 10px 10px 20px;text-align: center;}
+img#headshot{border:50px 50px 50px 50px solid; border-style: groove;border-color:brown;}
+h2{font-size:2.0em;background:linear-gradient(to left, darksalmon, white, darksalmon);color:limegreen;font-family:Arial,sans-serif;text-align:center; box-shadow: black 5px 5px 5px;}
+
+
+/* Aside and Blockquote Styles */
+section#about_me>p#about{font-family:Georgia,Verdana,sans-serif;color:darkgreen;font-size:1.0em;}
+section#classes ul li {color:darkblue;font-family:Times New Roman,sans-serif;}
+
+p#video,p#audio{text-align: center; font-size: 1.5em;text-shadow:red 5px 5px 50px; font-family:Arial,sans-serif;}
+
+
+/* Navigation Styles */	
+
+iframe{width:560px; height:315px;margin:auto;display:block;}
+audio{display:block;margin:auto;}
+
+
+/* List Styles */
+
+
+
+
+
+/* Footer Styles */
+footer{display:block;text-align: center; background: linear-gradient(to left,white,gray,white); color:darksalmon;font-family: sans-serif;}
+::cue{background:rgba(0,0,0,0.3); color:red;font:1.2em serif;}
+
+
+
+
+
+
+
+
+
+
+
